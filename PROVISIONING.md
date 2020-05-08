@@ -15,3 +15,5 @@ Netmask Address:				255.255.0.0
 Discovery DHCP Start IP Address:172.31.0.11
 Discovery DHCP End IP Address:	172.31.16.254
 Node Start IP Address:			172.31.17.1
+
+##Hyper-V Notes
