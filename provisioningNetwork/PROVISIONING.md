@@ -1,6 +1,6 @@
 #ANC Provisioning Network Documentation
 
-##Descrition
+##Description
 
 This document is here to provide insight on the ANC server provisioning process. 
 
@@ -17,3 +17,4 @@ Discovery DHCP End IP Address:	172.31.16.254
 Node Start IP Address:			172.31.17.1
 
 ##Hyper-V Notes
+todo
