@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<devices totalcount="31" listend="1">
+   <prtg-version>19.4.54.1506</prtg-version>
+   <item>
+      <objid>2005</objid>
+      <probe>Local Probe</probe>
+      <group>Network Infrastructure</group>
+      <device>Tech Center Server Room</device>
+      <host>10.16.86.2</host>
+   </item>
+   <item>
+      <objid>2006</objid>
+      <probe>Local Probe</probe>
+      <group>Network Infrastructure</group>
+      <device>ANCTECH3</device>
+      <host>10.16.86.6</host>
+   </item>
+   <item>
+      <objid>2007</objid>
+      <probe>Local Probe</probe>
+      <group>Network Infrastructure</group>
+      <device>ANCTECH2</device>
+      <host>10.16.86.5</host>
+   </item>
+   <item>
+      <objid>2008</objid>
+      <probe>Local Probe</probe>
+      <group>Network Infrastructure</group>
+      <device>TechCntr#1</device>
+      <host>10.16.86.4</host>
+   </item>
+   <item>
+      <objid>2009</objid>
+      <probe>Local Probe</probe>
+      <group>Network Infrastructure</group>
+      <device>CARPSHOP</device>
+      <host>10.16.86.13</host>
+   </item>
+   <item>
+      <objid>2010</objid>
+      <probe>Local Probe</probe>
+      <group>Network Infrastructure</group>
+      <device>ANCTECH4</device>
+      <host>10.16.86.7</host>
+   </item>
+   <item>
+      <objid>2011</objid>
+      <probe>Local Probe</probe>
+      <group>Network Infrastructure</group>
+      <device>ANCTECH6</device>
+      <host>10.16.86.9</host>
+   </item>
+   <item>
+      <objid>2012</objid>
+      <probe>Local Probe</probe>
+      <group>Network Infrastructure</group>
+      <device>Tech Center Library</device>
+      <host>10.16.86.12</host>
+   </item>
+   <item>
+      <objid>2013</objid>
+      <probe>Local Probe</probe>
+      <group>Network Infrastructure</group>
+      <device>ANCTECH5</device>
+      <host>10.16.86.8</host>
+   </item>
+   <item>
+      <objid>2014</objid>
+      <probe>Local Probe</probe>
+      <group>Network Infrastructure</group>
+      <device>ANCNH1</device>
+      <host>10.16.86.16</host>
+   </item>
+   <item>
+      <objid>2015</objid>
+      <probe>Local Probe</probe>
+      <group>Network Infrastructure</group>
+      <device>WCPH1</device>
+      <host>10.16.86.21</host>
+   </item>
+   <item>
+      <objid>2016</objid>
+      <probe>Local Probe</probe>
+      <group>Network Infrastructure</group>
+      <device>ANCLRLL2</device>
+      <host>10.16.86.25</host>
+   </item>
+   <item>
+      <objid>2017</objid>
+      <probe>Local Probe</probe>
+      <group>Network Infrastructure</group>
+      <device>ANCCC2</device>
+      <host>10.16.86.33</host>
+   </item>
+   <item>
+      <objid>2018</objid>
+      <probe>Local Probe</probe>
+      <group>Network Infrastructure</group>
+      <device>ANCWFTC2</device>
+      <host>10.16.86.44</host>
+   </item>
+   <item>
+      <objid>2019</objid>
+      <probe>Local Probe</probe>
+      <group>Network Infrastructure</group>
+      <device>ANCLRLL5</device>
+      <host>10.16.86.28</host>
+   </item>
+   <item>
+      <objid>2020</objid>
+      <probe>Local Probe</probe>
+      <group>Network Infrastructure</group>
+      <device>ANCRDST2</device>
+      <host>10.16.86.40</host>
+   </item>
+   <item>
+      <objid>2021</objid>
+      <probe>Local Probe</probe>
+      <group>Network Infrastructure</group>
+      <device>ANCWFTC3</device>
+      <host>10.16.86.45</host>
+   </item>
+   <item>
+      <objid>2022</objid>
+      <probe>Local Probe</probe>
+      <group>Network Infrastructure</group>
+      <device>ANCRDST2</device>
+      <host>10.16.86.43</host>
+   </item>
+   <item>
+      <objid>2023</objid>
+      <probe>Local Probe</probe>
+      <group>Network Infrastructure</group>
+      <device>ANCCC1</device>
+      <host>10.16.86.32</host>
+   </item>
+   <item>
+      <objid>2024</objid>
+      <probe>Local Probe</probe>
+      <group>Network Infrastructure</group>
+      <device>LRLL1</device>
+      <host>10.16.86.24</host>
+   </item>
+   <item>
+      <objid>2025</objid>
+      <probe>Local Probe</probe>
+      <group>Network Infrastructure</group>
+      <device>ANCSHOP1</device>
+      <host>10.16.86.37</host>
+   </item>
+   <item>
+      <objid>2026</objid>
+      <probe>Local Probe</probe>
+      <group>Network Infrastructure</group>
+      <device>ANCLRLL3</device>
+      <host>10.16.86.26</host>
+   </item>
+   <item>
+      <objid>2027</objid>
+      <probe>Local Probe</probe>
+      <group>Network Infrastructure</group>
+      <device>ANCRDST1</device>
+      <host>10.16.86.39</host>
+   </item>
+   <item>
+      <objid>2028</objid>
+      <probe>Local Probe</probe>
+      <group>Network Infrastructure</group>
+      <device>ANCLRLL4</device>
+      <host>10.16.86.27</host>
+   </item>
+   <item>
+      <objid>2032</objid>
+      <probe>Local Probe</probe>
+      <group>Network Infrastructure</group>
+      <device>ANCSPARE3</device>
+      <host>10.16.86.53</host>
+   </item>
+   <item>
+      <objid>2033</objid>
+      <probe>Local Probe</probe>
+      <group>Network Infrastructure</group>
+      <device>ANCSPARE4</device>
+      <host>10.16.86.50</host>
+   </item>
+</devices>
