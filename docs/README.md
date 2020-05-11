@@ -16,9 +16,9 @@ Various files from the ANC network monitor PRTG on ANCNETMON sends information i
 
 #### Ansible Control Node
 
-*TODO - Ansible Control node config info goes here*
+>*TODO - Ansible Control node config info goes here*
 
 #### Ansible Managed Node
 
-*TODO - Ansible Managed node config info goes here*
+>*TODO - Ansible Managed node config info goes here*
 
