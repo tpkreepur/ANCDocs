@@ -31,12 +31,24 @@
 			}
 		},
 		{
+			"contents": "#ANC Provisioning Network Documentation\n\n##Description\n\nThis document is here to provide insight on the ANC server provisioning process. \n\nTo speed up the process of provisioning new servers to ANC IT systems, ANC IT has leveraged the use of server management software from various manufacturers. \n\nCurrently, as of 5/8/20, ANC is using HPE MPM - Moonshot for provisioning of HPe Proliant servers.\n\n##Moonshot Network information\n\nProvision Manager IP Address:\t172.31.0.1\nNetmask Address:\t\t\t\t255.255.0.0\nDiscovery DHCP Start IP Address:172.31.0.11\nDiscovery DHCP End IP Address:\t172.31.16.254\nNode Start IP Address:\t\t\t172.31.17.1\n\n##Hyper-V Notes\ntodo",
 			"file": "PROVISIONING.md",
+			"file_size": 670,
+			"file_write_time": 132334320349163541,
 			"settings":
 			{
-				"buffer_size": 646,
+				"buffer_size": 651,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "diagrams/provisioningDiagram~",
+			"settings":
+			{
+				"buffer_size": 4132,
+				"encoding": "Hexadecimal",
+				"line_ending": "Unix"
 			}
 		}
 	],
@@ -92,7 +104,9 @@
 	},
 	"expanded_folders":
 	[
-		"/D/containerData/ANC/ANCDocs"
+		"/D/containerData/ANC/ANCDocs",
+		"/D/containerData/ANC/ANCDocs/diagrams",
+		"/D/containerData/ANC/ANCDocs/provisioningNetwork"
 	],
 	"file_history":
 	[
@@ -124,6 +138,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"todo"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -169,7 +184,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 2,
 					"type": "text"
 				},
 				{
@@ -178,15 +193,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 646,
+						"buffer_size": 651,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								343,
-								343
+								646,
+								646
 							]
 						],
 						"settings":
@@ -194,10 +209,38 @@
 							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 108.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "diagrams/provisioningDiagram~",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 4132,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
 					"type": "text"
 				}
 			]
