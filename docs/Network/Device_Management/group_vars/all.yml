@@ -1,0 +1,4 @@
+---
+#common network settings
+ntp: chronos1.umt.edu, chronos2.umt.edu, chronos3.umt.edu
+sntp: chronos1.umt.edu

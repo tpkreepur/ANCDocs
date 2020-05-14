@@ -204,7 +204,6 @@ Example:
 
 /path/to/appName/Dockerfile
 
-____
 
 Build your image with 
 
@@ -239,8 +238,6 @@ The --force option removes the running container. If you stop the container runn
 >**"Are you guys silly? I'm just gonna send it!"** - *Larry Enticer*
 
 ### Pushing to your Docker repository
-
-
 
 1. Now you are ready to share your image on Docker Hub, but there's one thing you must do first: images must be namespaced correctly to share on Docker Hub. Specifically, you must name images like `<Docker ID>/<Repository Name>:<tag>`. You can relabel your `baslineContainer:1.0` image like this (of course, please replace `<Docker ID>` with your Docker ID):
 
