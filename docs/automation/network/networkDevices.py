@@ -24,10 +24,6 @@ class switch(netDevice):
 class router(netDevice):
 	pass
 
-#sw01 = switch("Test01","10.16.86.100","switches")
-#sw01.showName()
-
 for host in root.findall('item'):
-	name = host.find('device').text
 	ipaddress = host.find('host').text
-	print(name + "," + ipaddress)
+	print(ipaddress)
