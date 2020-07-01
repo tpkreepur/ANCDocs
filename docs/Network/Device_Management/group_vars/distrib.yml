@@ -1,0 +1,3 @@
+---
+#group variables for distribution level switches
+ansible_username: manager

@@ -29,7 +29,7 @@ More info about LDAP can be found in the [OpenLDAP Admin' Guide](https://openlda
 
 ### Install And Configure
 ---
-bash
+
 #### install OpenLDAP
 ```bash
 root@dlp sudo apt -y install slapd ldap-utils`
@@ -49,7 +49,8 @@ root@dlp sudo apt -y install slapd ldap-utils`
 
 #### confirm settings
 ```bash
-root@dlp:~# slapcat
+root@dlp:~# sudo slapcat
+
 dn: dc=srv,dc=world
 objectClass: top
 objectClass: dcObject

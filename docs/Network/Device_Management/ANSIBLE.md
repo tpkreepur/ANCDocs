@@ -71,6 +71,15 @@ Unlike most Ansible modules, network modules do not run on the managed nodes. Fr
 ### Best Practices
 ---
 
+### Basic Inventory
+
+First, group your inventory logically. Best practice is to group servers and network devices by their What (application, stack or microservice), Where (datacenter or region), and When (development stage):
+
+- What: db, web, leaf, spine
+- Where: east, west, floor_19, building_A
+- When: dev, test, staging, prod
+
+#### Directory Structure
 Below you will find a sample directory layout for Ansible. Please adhere to the best practices unless you have shown adequate reasoning.
 
 ```bash

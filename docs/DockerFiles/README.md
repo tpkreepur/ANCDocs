@@ -173,7 +173,7 @@ Dockerfiles describe how to assemble a private filesystem for a container, and c
 
 Dockerfiles usually look like this:
 
-  ```bash
+```bash
   # Use the official image as a parent image.
   FROM node:current-slim
 
@@ -194,7 +194,7 @@ Dockerfiles usually look like this:
 
   # Copy the rest of your app's source code from your host to your image filesystem.
   COPY . .
-  ```
+```
   
 ### Building images from Dockerfiles
 
